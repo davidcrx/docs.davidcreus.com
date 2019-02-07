@@ -21,3 +21,11 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
+* `mkdocs new [dir-name]` - Yupi!!.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs help` - Print this help message.
+* `mkdocs new [dir-name]` - Yupi!!.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs help` - Print this help message.
