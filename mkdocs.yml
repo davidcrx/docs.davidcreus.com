@@ -1,4 +1,4 @@
 site_name: My Docs
-site_url: 'http://davidcreus.com'
+site_url: http://davidcreus.com
 theme:
   name: 'material'
