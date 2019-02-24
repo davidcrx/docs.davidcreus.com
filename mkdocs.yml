@@ -1,5 +1,4 @@
 site_name: My Docs
-dev_addr: 0.0.0.0:8000
-#site_url: 'https://docs.davidcreus.com'
+site_url: 'http://davidcreus.com'
 theme:
   name: 'material'
